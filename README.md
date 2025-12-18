@@ -1,2 +1,2 @@
-# Amazon_Sales_Dashboard_Power-Bi
+# Amazon_Sales_Dashboard_Power-Bi : [LINK](https://app.powerbi.com/view?r=eyJrIjoiZWIyNzhjZjktODczYi00NDNjLTkyOTctZGFkYWJiZGRiNTNmIiwidCI6IjkzMjJjMzMyLTYyMzYtNDUxYS1hY2U3LTE5MTFmYmQ4YTFjZiJ9&embedImagePlaceholder=true)
 This project analyzes Amazon sales data to track revenue, orders, profit, and trends. It includes data cleaning, analysis, and interactive dashboards to help understand sales performance and support data-driven business decisions.
